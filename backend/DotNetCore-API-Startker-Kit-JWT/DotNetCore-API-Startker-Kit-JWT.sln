@@ -1,0 +1,24 @@
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.5.2.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DotNetCore-API-Startker-Kit-JWT", "DotNetCore-API-Startker-Kit-JWT.csproj", "{8DCA7FA7-63E7-3358-117E-01FC7823499B}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{8DCA7FA7-63E7-3358-117E-01FC7823499B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8DCA7FA7-63E7-3358-117E-01FC7823499B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8DCA7FA7-63E7-3358-117E-01FC7823499B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8DCA7FA7-63E7-3358-117E-01FC7823499B}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {56C344B1-3ACE-4BF9-BBB2-E1E6DE1F156A}
+	EndGlobalSection
+EndGlobal

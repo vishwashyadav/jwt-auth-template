@@ -827,11 +827,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "/Users/vishwashyadav/Documents/Projects/Upler/Project 1/DotNetCore-API-Startker-Kit-JWT/DotNetCore-API-Startker-Kit-JWT.csproj",
+      "projectUniqueName": "/Users/vishwashyadav/Documents/Projects/Upler/jwt-auth-template/backend/DotNetCore-API-Startker-Kit-JWT/DotNetCore-API-Startker-Kit-JWT.csproj",
       "projectName": "DotNetCore-API-Startker-Kit-JWT",
-      "projectPath": "/Users/vishwashyadav/Documents/Projects/Upler/Project 1/DotNetCore-API-Startker-Kit-JWT/DotNetCore-API-Startker-Kit-JWT.csproj",
+      "projectPath": "/Users/vishwashyadav/Documents/Projects/Upler/jwt-auth-template/backend/DotNetCore-API-Startker-Kit-JWT/DotNetCore-API-Startker-Kit-JWT.csproj",
       "packagesPath": "/Users/vishwashyadav/.nuget/packages/",
-      "outputPath": "/Users/vishwashyadav/Documents/Projects/Upler/Project 1/DotNetCore-API-Startker-Kit-JWT/obj/",
+      "outputPath": "/Users/vishwashyadav/Documents/Projects/Upler/jwt-auth-template/backend/DotNetCore-API-Startker-Kit-JWT/obj/",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "/Users/vishwashyadav/.nuget/NuGet/NuGet.Config"
@@ -857,7 +857,8 @@
         "enableAudit": "true",
         "auditLevel": "low",
         "auditMode": "direct"
-      }
+      },
+      "SdkAnalysisLevel": "9.0.300"
     },
     "frameworks": {
       "net8.0": {
@@ -891,6 +892,20 @@
         ],
         "assetTargetFallback": true,
         "warn": true,
+        "downloadDependencies": [
+          {
+            "name": "Microsoft.AspNetCore.App.Ref",
+            "version": "[8.0.18, 8.0.18]"
+          },
+          {
+            "name": "Microsoft.NETCore.App.Host.osx-arm64",
+            "version": "[8.0.18, 8.0.18]"
+          },
+          {
+            "name": "Microsoft.NETCore.App.Ref",
+            "version": "[8.0.18, 8.0.18]"
+          }
+        ],
         "frameworkReferences": {
           "Microsoft.AspNetCore.App": {
             "privateAssets": "none"
@@ -899,7 +914,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/x64/sdk/8.0.407/PortableRuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/9.0.303/PortableRuntimeIdentifierGraph.json"
       }
     }
   }

@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "NTSVaHXRNj0=",
+  "dgSpecHash": "lh3eYmSfFdU=",
   "success": true,
-  "projectFilePath": "/Users/vishwashyadav/Documents/Projects/Upler/Project 1/DotNetCore-API-Startker-Kit-JWT/DotNetCore-API-Startker-Kit-JWT.csproj",
+  "projectFilePath": "/Users/vishwashyadav/Documents/Projects/Upler/jwt-auth-template/backend/DotNetCore-API-Startker-Kit-JWT/DotNetCore-API-Startker-Kit-JWT.csproj",
   "expectedPackageFiles": [
     "/Users/vishwashyadav/.nuget/packages/bcrypt.net-next/4.0.3/bcrypt.net-next.4.0.3.nupkg.sha512",
     "/Users/vishwashyadav/.nuget/packages/microsoft.aspnetcore.authentication.jwtbearer/8.0.5/microsoft.aspnetcore.authentication.jwtbearer.8.0.5.nupkg.sha512",
@@ -19,7 +19,10 @@
     "/Users/vishwashyadav/.nuget/packages/swashbuckle.aspnetcore.swagger/6.5.0/swashbuckle.aspnetcore.swagger.6.5.0.nupkg.sha512",
     "/Users/vishwashyadav/.nuget/packages/swashbuckle.aspnetcore.swaggergen/6.5.0/swashbuckle.aspnetcore.swaggergen.6.5.0.nupkg.sha512",
     "/Users/vishwashyadav/.nuget/packages/swashbuckle.aspnetcore.swaggerui/6.5.0/swashbuckle.aspnetcore.swaggerui.6.5.0.nupkg.sha512",
-    "/Users/vishwashyadav/.nuget/packages/system.identitymodel.tokens.jwt/7.1.2/system.identitymodel.tokens.jwt.7.1.2.nupkg.sha512"
+    "/Users/vishwashyadav/.nuget/packages/system.identitymodel.tokens.jwt/7.1.2/system.identitymodel.tokens.jwt.7.1.2.nupkg.sha512",
+    "/Users/vishwashyadav/.nuget/packages/microsoft.netcore.app.ref/8.0.18/microsoft.netcore.app.ref.8.0.18.nupkg.sha512",
+    "/Users/vishwashyadav/.nuget/packages/microsoft.aspnetcore.app.ref/8.0.18/microsoft.aspnetcore.app.ref.8.0.18.nupkg.sha512",
+    "/Users/vishwashyadav/.nuget/packages/microsoft.netcore.app.host.osx-arm64/8.0.18/microsoft.netcore.app.host.osx-arm64.8.0.18.nupkg.sha512"
   ],
   "logs": []
 }

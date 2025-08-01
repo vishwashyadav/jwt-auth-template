@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("DotNetCore-API-Startker-Kit-JWT")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+c33e3516898c66ac1d9f5c1969b45946d6188841")]
 [assembly: System.Reflection.AssemblyProductAttribute("DotNetCore-API-Startker-Kit-JWT")]
 [assembly: System.Reflection.AssemblyTitleAttribute("DotNetCore-API-Startker-Kit-JWT")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
