@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "U6DQLiSxU4EuB3UYRzOR2RiMdoZl1TptHEbfOgYpdbM=",
+  "Source": "DotNetCore-API-Startker-Kit-JWT",
+  "BasePath": "_content/DotNetCore-API-Startker-Kit-JWT",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}
